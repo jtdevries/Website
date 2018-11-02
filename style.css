@@ -1,0 +1,130 @@
+body  {
+  background-color: #white;
+  color: black;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.topnav {
+  background-color: #ff6163;
+  overflow: hidden;
+  box-shadow: 2px 2px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #B23234;
+  color: black;
+}
+
+.topnav a:active {
+  background-color: #FF7A7C;
+  color: white;
+}
+
+/*
+.adress {
+  float: left;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 5px 5px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.ervaring {
+  float: right;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: left;
+  padding: 5px 5px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.studies {
+  float: right;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: left;
+  padding: 5px 5px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.stage {
+  float: left;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: left;
+  height: 120px;
+  width: 400px;
+  padding: 5px 5px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.vaardigheden {
+  float: left;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  height: 120px;
+  width: 400px;
+  padding: 5px 5px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.talen {
+  float: left;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  padding: 14px 16px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.varia {
+  float: right;
+  position: relative;
+  color: black;
+  background-color: #20B249;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding: 14px 16px;
+  margin: inherit;
+  text-decoration: none;
+  font-size: 17px;
+}
